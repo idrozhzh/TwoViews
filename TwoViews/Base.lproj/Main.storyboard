@@ -31,7 +31,6 @@
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="40u-zU-18R" secondAttribute="trailing" constant="20" id="0ta-U2-npV"/>
                             <constraint firstItem="40u-zU-18R" firstAttribute="top" secondItem="PU7-S7-Sdn" secondAttribute="bottom" constant="8" symbolic="YES" id="12n-7j-nrR"/>
                             <constraint firstItem="PU7-S7-Sdn" firstAttribute="height" secondItem="40u-zU-18R" secondAttribute="height" id="Dyw-p3-skQ"/>
-                            <constraint firstItem="PU7-S7-Sdn" firstAttribute="width" secondItem="40u-zU-18R" secondAttribute="width" id="E5v-Td-hsj"/>
                             <constraint firstItem="PU7-S7-Sdn" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="20" id="WD0-Di-7dm"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="PU7-S7-Sdn" secondAttribute="trailing" constant="20" id="Wy5-06-5xT"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="40u-zU-18R" secondAttribute="bottom" id="f0K-fO-YAx"/>
